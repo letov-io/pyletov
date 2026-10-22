@@ -7,7 +7,7 @@ uv add pyletov
 
 2. Use
 ```py
-from letovlm import letov
+from pyletov import letov
 print(letov())
    ```
 
